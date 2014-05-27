@@ -1,4 +1,4 @@
-Layered-Partitioning-Demo
+Layered Partitioning Demo
 =========================
 
 Demo scripts from my talk about Layered Partitioning on SQL Server. 
